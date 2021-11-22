@@ -1,6 +1,6 @@
 {
   "name": "ui-tokens",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "src/index.js",
   "license": "MIT",
   "gitHead": "3f0e1fd6048b1b4fb813d6f69dc0313fe65e037e"
