@@ -1,0 +1,15 @@
+{
+  "name": "react-ui-repository",
+  "version": "1.0.0",
+  "description": "UI components repository",
+  "main": "index.js",
+  "author": "Guilherme Ziolle <guilherme.ziolle@pier.digital>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
