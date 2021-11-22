@@ -1,6 +1,6 @@
 {
   "name": "@react-ui-repository/ui-tokens",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "src/index.js",
   "license": "MIT",
   "gitHead": "77ec198fe5a823ed50d6d710b4739c9719b9b8a2"
